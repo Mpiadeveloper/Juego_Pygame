@@ -1,4 +1,5 @@
 
+
 def detectar_colisiones_entre_proyectiles_y_enemigos(puntos: int, proyectiles: list, cantidad_enemigos: list) -> int:
     """  
     Detecta colisiones entre proyectiles y enemigos, y si es asi:
